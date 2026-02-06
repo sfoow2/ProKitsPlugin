@@ -1,0 +1,7 @@
+name: Prokits
+version: '1.0'
+main: me.sfoow.prokits.Prokits
+api-version: '1.21'
+authors: [ sfoow ]
+depend: [PlaceholderAPI,Vault]
+
